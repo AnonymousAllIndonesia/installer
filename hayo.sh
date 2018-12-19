@@ -32,7 +32,6 @@ echo $red"kontak admin: 0895337883914"
 echo $green"Author : MR.KINTIL"
 echo $blue"Team : G45 CYBER TEAM"
 echo $purple"Thanks To :ALI ATTACKER
-echo $red"Channel Youtube :Tutorial Termux"
 =================================================
 echo $yellow" 01) Red Hawk"
 echo $yellow" 02) D-Tect"
