@@ -8,74 +8,117 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
+
+figlet Tools | lolcat
+
+echo -e  "_____________________________________________________________"
+echo -e  "Tools    : MR.KINTIL $white    " |lolcat
+echo -e  "Creadby  : KintilGans $white   " |lolcat
+echo -e  "Contact  : G45CyberTeam $white " |lolcat
+echo -e  "_____________________________________________________________"
+
 ###################################################
-# CTRL C-
+# CTRL + C
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo  $red"[#]> (Ctrl + C ) Detected, 
-Trying To Exit ... "
+echo -e $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
+echo -e $cyan"[#]> Thanks"
 sleep 1
 echo ""
-echo  $yellow"[#]> Thank You For Using My 
-Tools ... "
+echo -e $white"[#]> see you gaes :)..."
 sleep 1
-echo ""
-echo  $white"[#]> Anonymous All Indonesia Was 
-Here ... "
-read enter
 exit
 }
-=================================================
-echo $red"kontak admin: 0895337883914"
-echo $green"Author : MR.KINTIL"
-echo $blue"Team : G45 CYBER TEAM"
-echo $purple"Thanks To :ALI ATTACKER
-=================================================
-echo $yellow" 01) Red Hawk"
-echo $yellow" 02) D-Tect"
-echo $yellow" 03) Top Up Ilegal ML"
-echo $yellow" 04) Top Up Ilegal FF"
-echo $yellow" 05) Webdav"
-echo $yellow" 06) Metasploit"
-echo $yellow" 07) Pulsa Gratis"
-echo $yellow" 08) Ubuntu"
-echo $yellow" 09) Youtube Dl"
-echo $yellow" 10) viSQL "
-echo $yellow" 11) multi-brute-webdav "
-echo $yellow" 12) Bajinganv6 "
-echo $yellow" 13) Tools RCT"
-echo $yellow" 14) cc fresh Amazon "
-echo $yellow" 15) install tools Mr.Fe3LL"
-echo $yellow" 16) install tools InYourS3RV3R"
-echo $yellow" 17) install tools MR.TR3V! ON"
-echo $yellow" 18) install tools TUANB4DUT"
-echo $yellow" 19) install tools TUAN N1CKN4M3"
-echo $yellow" 20) install sqlmap"
-echo $yellow" 21) buat script deface"
-echo $yellow" 22) install tools intect"
-echo $yellow" 23) install tools Matematika "
-echo $yellow" 24) install tools CYB3R GH0ST"
-echo $yellow" 25) install brute-webdav"
-echo $yellow" 26) insall AOCVIRUS"
-echo $yellow" 27) install penambah kuota"
-echo $yellow" 28) install Dark-Fly"
-echo $yellow" 29) install Mr.Cakil"
-echo $yellow" 30) install AOCMinitools"
-echo $yellow" 31) install CL4y-DDoS"
-echo $yellow" 32) install malicious"
-echo $yellow" 33) install ipcs"
-echo $yellow" 34) install recondog"
-echo $yellow" 35) install santet-online"
-echo $yellow" 36) install diejoubu"
-echo $yellow" 37) install ipgeolocation"
-echo $yellow" 38) install OSIF"
-echo $yellow" 39) install A-Rat"
-echo $yellow" 40) install spam-sms"
-echo  $red" 0) Exit "
-echo  $white""
-read -p "[Mr.Kintil]> " bro;
+
+lagi=1
+while [ $lagi -lt 6 ];
+do
+echo ""
+echo -e $yellow" 01) Red Hawk${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 02) D-Tect${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 03) Top Up Ilegal ML${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 04) Top Up Ilegal FF${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 05) Webdav${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 06) Metasploit${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 07) Pulsa Gratis${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 08) Ubuntu${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 09) Youtube Dl${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 10) viSQL${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 11) multi-brute-webdav${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 12) Bajinganv6${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 13) Tools RCT${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 14) cc fresh Amazon${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 15) install tools Mr.Fe3LL${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 16) install tools InYourS3RV3R${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 17) install tools MR.TR3V! ON${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 18) install tools TUANB4DUT${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 19) install tools TUAN N1CKN4M3${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 20) install sqlmap${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 21) buat script deface${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 22) install tools intect${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 23) install tools Matematika${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 24) install tools CYB3R GH0ST${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 25) install brute-webdav${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 26) insall AOCVIRUS${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 27) install penambah kuota${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 28) install Dark-Fly${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 29) install Mr.Cakil${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 30) install AOCMinitools${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 31) install CL4y-DDoS${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 32) install malicious${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 33) install ipcs${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 34) install recondog${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 35) install santet-online${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 36) install diejoubu${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 37) install ipgeolocation${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 38) install OSIF${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 39) install A-Rat${enda}";
+echo -e "============================" | lolcat
+echo -e $yellow" 40) install spam-sms${enda}";
+echo -e "============================" | lolcat
+echo ""
+echo -e "╭─Kintil" |lolcat
+read -p "╰─#" til;
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
